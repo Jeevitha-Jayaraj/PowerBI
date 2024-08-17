@@ -11,14 +11,12 @@
 
     1) Claims Overview :Visualizing the number of claims processed and the total amount approved, segmented 
        by various states.
-    2) Fraud Detection
-          Highlighting claims reported as fraudulent (fraud_reported = 1) versus those not reported as fraudulent 
-          (fraud_reported = 0).   
-    3) Incident Analysis
-          Examining the count of incidents and their distribution based on time, gender, and vehicle age.
-    4) Policy and Insured Person Details
-          Detailed insights into the insured individuals, their policies, and incident descriptions,including the 
-          characteristics of the vehicles involved.
+    2) Fraud Detection :Highlighting claims reported as fraudulent (fraud_reported = 1) versus those not 
+       reported as fraudulent (fraud_reported = 0).   
+    3) Incident Analysis:Examining the count of incidents and their distribution based on time, gender, 
+       and vehicle age.
+    4) Policy and Insured Person Details :Detailed insights into the insured individuals, their policies, and incident 
+       descriptions,including the characteristics of the vehicles involved.
 
 ## Dataset Information
  
