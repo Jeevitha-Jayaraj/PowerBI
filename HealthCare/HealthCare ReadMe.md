@@ -15,7 +15,7 @@
        reported as fraudulent (fraud_reported = 0).   
     3) Incident Analysis:Examining the count of incidents and their distribution based on time, gender, 
        and vehicle age.
-    4) Policy and Insured Person Details :Detailed insights into the insured individuals, their policies, and incident 
+    4) Policy and Insured Person Details :Detailed insights into the insured individuals, their policies,and incident 
        descriptions,including the characteristics of the vehicles involved.
 
 ## Dataset Information
