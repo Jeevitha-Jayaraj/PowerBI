@@ -1,9 +1,9 @@
 # Insurance Claims DashBoard - Power BI
 
 ## Overview
-     This project showcases a Power BI dashboard that visualizes the financial performance
-     of insurance claims made against various policies. The dashboard is designed to provide
-     leadership with a quick and insightful overview of claims data processed during January and February.
+     This project showcases a Power BI dashboard that visualizes the financial performance of insurance claims 
+     made against various policies. The dashboard is designed to provide leadership with a quick and insightful overview
+     of claims data processed during January and February.
 
 ## Project Description
      
