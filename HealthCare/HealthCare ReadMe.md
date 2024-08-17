@@ -17,8 +17,8 @@
       Incident Analysis: 
            Examining the count of incidents and their distribution based on time, gender, and vehicle age.
       Policy and Insured Person Details:
-           Detailed insights into the insured individuals, their policies, and incident descriptions,including the characteristics of the 
-           vehicles involved.
+           Detailed insights into the insured individuals, their policies, and incident descriptions,including the 
+           characteristics of the vehicles involved.
 
 
 
