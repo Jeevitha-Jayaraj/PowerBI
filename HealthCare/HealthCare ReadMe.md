@@ -38,3 +38,12 @@
      2) Investigating the count of incidents and understanding the impact of factors such as time of the 
         incident, gender of the insured person, and the age of the vehicle involved.
 
+## Dashboard Highlights
+     1) State-wise Claims and Payouts: 
+           Visual representations showing the geographical distribution of claims and the corresponding financial outlay.
+     2) Fraud Detection Analysis: 
+           Insights into the proportion of claims flagged as fraudulent.
+     3) Temporal and Demographic Analysis: 
+           Charts depicting how the number of incidents varies by time of day, gender, and vehicle age.
+     4) Detailed Claims View: 
+           A tabular summary offering a detailed breakdown of each claim's attributes.
