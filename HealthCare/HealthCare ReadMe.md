@@ -7,7 +7,7 @@
 
 ## Project Description
      
-     The dashboard is built to address the following key aspects:
+    The dashboard is built to address the following key aspects:
 
     1) Claims Overview
           Visualizing the number of claims processed and the total amount approved, segmented by various states.
@@ -20,7 +20,15 @@
            Detailed insights into the insured individuals, their policies, and incident descriptions,including the 
            characteristics of the vehicles involved.
 
+## Dataset Information
+ 
+     The dataset comprises 1,000 individual claims with 40 attributes describing each claim. 
+     These attributes can be categorized into four main groups:
 
+     1) Insured Person: Details about the individual who holds the policy.
+     2) Policy Information: Information regarding the policy under which the claim is made.
+     3) Incident Description: Specifics about the incident that led to the claim.
+     4) Vehicle Characteristics: Attributes related to the vehicle involved in the incident.
 
 
 
