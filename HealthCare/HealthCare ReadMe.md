@@ -9,8 +9,8 @@
      
     The dashboard is built to address the following key aspects:
 
-    1) Claims Overview :
-          Visualizing the number of claims processed and the total amount approved, segmented by various states.
+    1) Claims Overview :Visualizing the number of claims processed and the total amount approved, segmented 
+       by various states.
     2) Fraud Detection
           Highlighting claims reported as fraudulent (fraud_reported = 1) versus those not reported as fraudulent 
           (fraud_reported = 0).   
