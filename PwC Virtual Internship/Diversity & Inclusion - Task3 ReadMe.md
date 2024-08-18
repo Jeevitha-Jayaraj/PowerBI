@@ -28,8 +28,8 @@ Key attributes include:
 ## Key Performance Indicators (KPIs):
 
 1) Gender Distribution:
-    # of Men: The total number of men in the organization.
-    # of Women: The total number of women in the organization.
+    No of Men: The total number of men in the organization.
+    No of Women: The total number of women in the organization.
 2) Promotion Equity:
     % Employees Promoted (FY21): The percentage of employees promoted during the fiscal year, segmented by gender.
     % of Women Promoted: The percentage of women who were promoted during the fiscal year.
@@ -37,7 +37,7 @@ Key attributes include:
     % of Hires Men: The percentage of new hires who are men.
     % of Hires Women: The percentage of new hires who are women.
 4) Turnover Analysis:
-    # of Leavers: The total number of employees who left the organization.
+    No of Leavers: The total number of employees who left the organization.
     % Turnover: The overall turnover rate, segmented by gender.
 5) Performance Evaluation:
     Average Performance Rating - Men: The average performance rating of male employees.
